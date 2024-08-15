@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tharusha Dilmin</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushz&label=Profile%20views&color=0e75b6&style=flat" alt="tharushz" /> </p>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Tharusha+Dilmin;Software+Engineering+Student;">
+</p>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushz&label=Profile%70views&color=0e75b6&style=flat" alt="tharushz" /> </p>
+<hr>
+<br>
 
 - 👨‍💻 All of my projects are available at [https://tharushz.github.io/My-portfolio/profile.html](https://tharushz.github.io/My-portfolio/profile.html)
 
@@ -26,5 +34,19 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushz&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tharushz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
+
+<br>
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
+<h2 align='center'>Thank You!!!!!</h2>
+<br>
+
+------
 
 
