@@ -5,7 +5,9 @@
 </p>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+ ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushz&label=Profile%70views&color=0e75b6&style=flat" alt="tharushz" /> </p>
 
@@ -92,6 +94,6 @@
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
