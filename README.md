@@ -8,7 +8,9 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushz&label=Profile%70views&color=0e75b6&style=flat" alt="tharushz" /> </p>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
@@ -18,14 +20,19 @@
 <td width="50%" align="left">
 
 - 🌱 I’m currently learning.
+  <br><br>
 - 🤔 I’m looking for help with Open source Contribution.
+  <br><br>
 - ⚙️ I use daily: `.js`, `.css`, `.html`
+  <br><br>
 - 👨‍💻 All of my projects are available at [https://tharushz.github.io/My-portfolio/profile.html](https://tharushz.github.io/My-portfolio/profile.html)
+  <br><br>
 - 📫 How to reach me **tharushadilmin123@gmail.com**
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" height="350" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  
 </td>
 </tr>
 </table>
